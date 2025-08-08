@@ -88,14 +88,44 @@
   },
   "custom_category": [
     {
-      "name": "华语",
+      "name": "经典",
       "type": "movie",
-      "query": "华语"
+      "query": "经典"
     },
     {
-      "name": "最新",
+      "name": "科幻",
       "type": "movie",
-      "query": "最新"
+      "query": "科幻"
+    },
+    {
+      "name": "动作",
+      "type": "movie",
+      "query": "动作"
+    },
+    {
+      "name": "喜剧",
+      "type": "movie",
+      "query": "喜剧"
+    },
+    {
+      "name": "爱情",
+      "type": "movie",
+      "query": "爱情"
+    },
+    {
+      "name": "悬疑",
+      "type": "movie",
+      "query": "悬疑"
+    },
+    {
+      "name": "恐怖",
+      "type": "movie",
+      "query": "恐怖"
+    },
+    {
+      "name": "治愈",
+      "type": "movie",
+      "query": "治愈"
     }
   ]
 }
